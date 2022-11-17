@@ -2,3 +2,7 @@
 2.Blue
 3.Willpower
 4.Money
+5.Peak
+6.COnstitution
+7.Physique
+8.Sensorimotor Synchrony
